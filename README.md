@@ -1,2 +1,2 @@
 # 5-day-challenge-series
-Collection of 5 day challenge series in the order they occur
+Here is the list of all 5 day challenge series sorted by the date they were posted
